@@ -1,5 +1,5 @@
 def meal(meal_choice = "meat")
-  meal
+  meal("Vegan")
 end
 
 
