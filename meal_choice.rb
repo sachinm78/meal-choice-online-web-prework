@@ -1,5 +1,5 @@
 def meal_choice(food = "meat")
-    meal_choice(food)
+    return meal_choice(food)
 end
 
 
